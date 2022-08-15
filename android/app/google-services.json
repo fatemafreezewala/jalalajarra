@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239306198884",
+    "project_id": "jalalajarra-267ee",
+    "storage_bucket": "jalalajarra-267ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239306198884:android:04f3b9e94aa9ffaee97471",
+        "android_client_info": {
+          "package_name": "com.jalalajarra.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239306198884-10kkgrnh508gm4gtng2jhrjmga05kqfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jalalajarra.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "239306198884-vds69iek7efqh25a2osa04ut48dv5lvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANb9uf5waTPMEcimSnvO4mc4fl3kwA0FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239306198884-vds69iek7efqh25a2osa04ut48dv5lvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
